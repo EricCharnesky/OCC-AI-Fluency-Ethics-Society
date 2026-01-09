@@ -1,7 +1,7 @@
-# OCC-AI-Fluency-Ethics-Society
+# OCC AI Fluency, Ethics, and Society
 Course Proposal Working Document
 
-## CIC Process Checklist for New Course
+# CIC Process Checklist for New Course
 
 - [ ] 1. Consult with appropriate Academic Dean for input and process for new courses or course changes
 - [ ] 2. Consult with College Registrar when course code or number is changing
@@ -19,6 +19,8 @@ review and approval.
 - [ ] 12. Course(s) added to appropriate Academic Year Catalog via Registrar.
 - [ ] 13. Work with Director of Academic Partnerships and/or Director of Secondary Partnerships toward changes/
 additions/improvement of transfer, articulation agreements, community partnerships etc.
+
+# CIC Proposal Fields
 
 ## Course Title
 AI Fluency, Ethics, and Soceity
