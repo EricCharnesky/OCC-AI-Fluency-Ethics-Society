@@ -38,7 +38,7 @@ This course introduces students to the principles, applications, and societal im
 - Understand foundational AI concepts and terminology, including machine learning, natural language processing, computer vision, and generative AI.
 - Identify real-world applications of AI and how they influence everyday life, work, and global systems.
 - Evaluate the ethical, social, and environmental impacts of AI technologies.
-- Apply AI tools effectively and responsibly in academic or professional contexts.
+- Apply AI tools effectively and ethically in academic or professional contexts.
 - Critically analyze the biases, limitations, and potential risks associated with AI systems. ( does this count as Critical Thinking GEO? )
 - Communicate informed perspectives on AI’s role in shaping the 21st century.
 
