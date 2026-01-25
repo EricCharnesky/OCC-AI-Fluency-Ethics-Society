@@ -35,11 +35,17 @@ This course introduces students to the principles, applications, and societal im
 ??? ????
 
 ## Common Course Outcomes ( needs 6, with at least 1 General Education Outcome )
+
+CIS focused
 - Understand foundational AI concepts and terminology, including machine learning, natural language processing, computer vision, and generative AI.
-- Identify real-world applications of AI and how they influence everyday life, work, and global systems.
+- Critically analyze the biases, limitations, and potential risks associated with AI systems. ( does this count as Critical Thinking GEO? )
+
+Ethics focused
 - Evaluate the ethical, social, and environmental impacts of AI technologies.
 - Apply AI tools effectively and ethically in academic or professional contexts.
-- Critically analyze the biases, limitations, and potential risks associated with AI systems. ( does this count as Critical Thinking GEO? )
+
+Sociology focused
+- Identify real-world applications of AI and how they influence everyday life, work, and global systems.
 - Communicate informed perspectives on AI’s role in shaping the 21st century.
 
 ## Proposed General Education Distribution List
