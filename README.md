@@ -32,7 +32,7 @@ This course introduces students to the principles, applications, and societal im
 3 Credit Hours - Lecture
 
 ## Course Code
-??? ????
+CIS 1067 ???
 
 ## Common Course Outcomes ( needs 6, with at least 1 General Education Outcome )
 
