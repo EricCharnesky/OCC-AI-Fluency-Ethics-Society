@@ -41,8 +41,8 @@ CIS focused
 - Critically analyze the biases, limitations, and potential risks associated with AI systems. ( does this count as Critical Thinking GEO? )
 
 Ethics focused
-- Evaluate the ethical, social, and environmental impacts of AI technologies.
-- Apply AI tools effectively and ethically in academic or professional contexts.
+- Develop awareness of and explore methods to Evaluate the foundational ethical, social, and environmental impacts of AI technologies.
+- Apply AI tools effectively and with ethical awareness in academic or professional contexts
 
 Sociology focused
 - Identify real-world applications of AI and how they influence everyday life, work, and global systems.
