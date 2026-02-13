@@ -26,7 +26,7 @@ additions/improvement of transfer, articulation agreements, community partnershi
 AI Fluency, Ethics, and Society
 
 ## Course Description
-This course introduces students to the principles, applications, ethical problems, and societal implications of artificial intelligence (AI). Students will learn what AI is, how it works, and how it is shaping the modern world—from personalized recommendations and digital assistants to generative tools like ChatGPT and DALL·E. Through hands-on exploration, discussion, and critical reflection, students will develop the ability to evaluate ethical problems arising from the use of AI, and how they can use AI responsibly and creatively in their personal, academic, and professional lives.
+This course introduces students to the principles, applications, ethical problems, and societal implications of artificial intelligence (AI). Students will learn what AI is, how it works, and how it is shaping the modern world - from personalized recommendations and digital assistants to generative tools like ChatGPT. Through hands-on exploration, discussion, and critical reflection, students will develop the ability to evaluate ethical problems arising from the use of AI, and how they can use AI responsibly and creatively in their personal, academic, and professional lives.
 
 ## Credits
 3 Credit Hours - Lecture
@@ -41,18 +41,18 @@ CIS focused
 - Critically analyze the biases, limitations, and potential risks associated with AI systems. ( does this count as Critical Thinking GEO? )
 
 Ethics focused
-- Develop awareness of and explore methods to Evaluate the foundational ethical, social, and environmental impacts of AI technologies.
+- Develop awareness of and explore methods to evaluate the foundational ethical, social, and environmental impacts of AI technologies.
 - Apply AI tools effectively and with ethical awareness in academic or professional contexts
 
 Sociology focused
 - Identify real-world applications of AI and how they influence everyday life, work, and global systems.
-- Communicate informed perspectives on AI’s role in shaping the 21st century.
+- Communicate informed perspectives on AI’s role in shaping the future.
 
 ## Proposed General Education Distribution List
 - Could this count as a Social Science gen ed?
 
 ## Michigan Transfer Agreement Inclusion
-- Probably not?
+- Probably?
 
 
 # Course Content ( Draft )
