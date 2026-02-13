@@ -23,7 +23,7 @@ additions/improvement of transfer, articulation agreements, community partnershi
 # CIC Proposal Fields
 
 ## Course Title
-AI Fluency, Ethics, and Soceity
+AI Fluency, Ethics, and Society
 
 ## Course Description
 This course introduces students to the principles, applications, ethical problems, and societal implications of artificial intelligence (AI). Students will learn what AI is, how it works, and how it is shaping the modern world—from personalized recommendations and digital assistants to generative tools like ChatGPT and DALL·E. Through hands-on exploration, discussion, and critical reflection, students will develop the ability to evaluate ethical problems arising from the use of AI, and how they can use AI responsibly and creatively in their personal, academic, and professional lives.
