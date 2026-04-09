@@ -32,7 +32,7 @@ This course introduces students to the principles, applications, ethical problem
 3 Credit Hours - Lecture
 
 ## Course Code
-CIS 1067 ???
+CIS 1067 / PHI 1067 / SOC 1067 ( Cross listed )
 
 ## Common Course Outcomes ( needs 6, with at least 1 General Education Outcome )
 
@@ -49,7 +49,7 @@ Sociology focused
 - Communicate informed perspectives on AI’s role in shaping the future.
 
 ## Proposed General Education Distribution List
-- Could this count as a Social Science gen ed?
+- Social Science Gen Ed
 
 ## Michigan Transfer Agreement Inclusion
 - Probably?
