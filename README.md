@@ -3,8 +3,8 @@ Course Proposal Working Document
 
 # CIC Process Checklist for New Course
 
-- [ ] 1. Consult with appropriate Academic Dean for input and process for new courses or course changes
-- [ ] 2. Consult with College Registrar when course code or number is changing
+- [x] 1. Consult with appropriate Academic Dean for input and process for new courses or course changes
+- [x] 2. Consult with College Registrar when course code or number is changing
 - [ ] 3. Complete CIC Course Proposal Form
 - [ ] 4. Consult with IE on development/changes to common course outcomes or assessment plans, inclusion in
 review cycle.
